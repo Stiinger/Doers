@@ -32,4 +32,5 @@ import edu.ucne.doers.presentation.data.local.entity.MovimientoCartera
 
 abstract class DoersDb : RoomDatabase(){
 
+
 }
