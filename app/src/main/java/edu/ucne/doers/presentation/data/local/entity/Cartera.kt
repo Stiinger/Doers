@@ -17,4 +17,5 @@ data class Cartera(
     @PrimaryKey(autoGenerate = true) val carteraID: Int = 0,
     val hijoID: Int,
     val saldoActual: Int = 0
+
 )

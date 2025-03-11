@@ -18,4 +18,5 @@ data class Canjeo(
     val hijoID: Int,
     val recompensaID: Int,
     val fechaCanjeo: String
+
 )

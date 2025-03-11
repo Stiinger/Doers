@@ -17,4 +17,5 @@ data class Sala(
     val salaID: Int = 0,
     val codigoSala: String,
     val padreID: String
+
 )

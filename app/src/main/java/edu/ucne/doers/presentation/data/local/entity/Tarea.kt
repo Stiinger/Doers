@@ -23,4 +23,5 @@ data class Tarea(
     val puntos: Int,
     val tiempoLimite: String,
     val estado: String = "Pendiente"
+
 )

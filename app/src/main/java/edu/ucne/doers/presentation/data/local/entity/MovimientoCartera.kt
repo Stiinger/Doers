@@ -22,4 +22,5 @@ data class MovimientoCartera(
     val descripcion: String?,
     val fechaMovimiento: String
 
+
 )

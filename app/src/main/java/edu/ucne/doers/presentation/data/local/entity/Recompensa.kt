@@ -22,4 +22,5 @@ data class Recompensa(
     val puntosNecesarios: Int,
     val tiempoLimite: String?,
     val estado: String = "Disponible"
+
 )

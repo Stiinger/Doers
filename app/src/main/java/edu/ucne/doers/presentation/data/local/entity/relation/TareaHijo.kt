@@ -21,4 +21,5 @@ data class TareaHijo(
     val estado: String = "Aceptada",
     val fechaAceptada: String,
     val fechaCompletada: String?
+
 )

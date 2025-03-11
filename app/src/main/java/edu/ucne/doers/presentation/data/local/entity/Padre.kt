@@ -12,4 +12,5 @@ data class Padre(
     val email: String,
     val fotoPerfilUrl: String?,
     val fechaRegistro: String?
+
 )
