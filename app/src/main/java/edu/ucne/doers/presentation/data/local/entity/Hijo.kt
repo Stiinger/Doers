@@ -21,4 +21,5 @@ data class Hijo(
     val fechaNacimiento: String?,
     val fotoPerfilUrl: String?,
     val edad: Int?
+
 )
